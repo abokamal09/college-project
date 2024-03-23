@@ -69,6 +69,7 @@ header {
       background-color: var(--secondary-color);
       border: none;
       border-radius: 12px;
+      transition: all 0.3s ease-in-out;
     }
     /* button style when hover*/
     button:hover {
@@ -131,6 +132,7 @@ nav {
       border-radius: 12px;
       margin: 1rem;
       margin-right: 20px;
+      transition: all 0.3s ease-in-out;
       /* anchor link style */
       a {
         text-decoration: none;
