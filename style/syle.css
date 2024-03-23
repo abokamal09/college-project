@@ -54,7 +54,7 @@ header {
       padding-right: 8px;
       z-index: 99;
     }
-    /* edite input style when focus on */
+    /* edit input style when focus on */
     input:focus,
     input:focus-visible {
       border: 1px solid #1670be;
@@ -76,18 +76,18 @@ header {
       cursor: pointer;
       background-color: #cf4949;
     }
-    /* i => icon (from fontawesome) */
+    /* i => icon (from font awesome) */
     i {
       margin-right: 1rem;
     }
   }
 }
-/* define style for palastine logo container (div) */
-.palastine {
+/* define style for palestine logo container (div) */
+.Palestine {
   position: absolute;
   left: 35%;
   top: 1%;
-  /* palastine logo */
+  /* Palestine logo */
   img {
     width: 18.5rem;
   }
@@ -131,7 +131,7 @@ nav {
       border-radius: 12px;
       margin: 1rem;
       margin-right: 20px;
-      /* ancher link style */
+      /* anchor link style */
       a {
         text-decoration: none;
         .green-class {
